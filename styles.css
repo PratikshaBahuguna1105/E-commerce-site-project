@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+}
+
+.home-icon {
+    font-size: large;
+    color: rgb(32, 26, 26);
+}
+
+.strike {
+    color: grey;
+}
+
+.btn-light {
+    border: 1px solid rgb(49, 36, 36);
+}
+
+@media (min-width: 992px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm {
+        max-width: 1032px;
+    }
+}
